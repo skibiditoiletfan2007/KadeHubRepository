@@ -1,1 +1,1 @@
-return "After The Russian Colonization"
+return " After The Russian Colonization"
