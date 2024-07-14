@@ -1,1 +1,1 @@
-return '2.2.56 | KadeHub is discontinued.'
+return '3.0.0 | KadeHub is up again!.'
