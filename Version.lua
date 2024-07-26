@@ -1,1 +1,1 @@
-return '2.2.56 | KadeHub is discontinued.'
+return '2.2.5 | .gg/pznM2AfdJz'
