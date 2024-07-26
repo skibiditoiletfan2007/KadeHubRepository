@@ -1,1 +1,1 @@
-return '2.2.5 | .gg/pznM2AfdJz'
+return '2.2.6 | Undiscontinued'
