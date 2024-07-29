@@ -1,1 +1,1 @@
-return '2.2.6 | Undiscontinued'
+return '2.2.7'
