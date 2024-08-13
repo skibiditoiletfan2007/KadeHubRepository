@@ -1,1 +1,1 @@
-return " LOL, Lmao Even."
+return " I think i broke something i dont know"
