@@ -7,6 +7,7 @@ local BlacklistedClients = {
     "fa194e59-c934-49fe-9b46-a1adefe3b120",
     "bcf1e64d-f463-4a9a-b962-2ef8fb3409fa",
     "9d00b54f-e10c-4511-af77-4a907c876712",
+    "effa47db-b0e9-4503-9a23-724ecd2ee2f4",
 }
 
 return BlacklistedClients
