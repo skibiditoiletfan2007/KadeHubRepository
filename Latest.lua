@@ -1,7 +1,7 @@
 -- discord.gg/pznM2AfdJz
 task.spawn(function()
     for i = 1, 3 do
-      game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Kadehub", Text = "If you see a guy named aluminium in kadehub's discord server, ping him and call him an idiot!", Duration = 10})
+      game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Kadehub", Text = "If you see a guy named Aluminium in kadehub's discord server, ping him and call him an idiot!", Duration = 10})
       task.wait(10)
     end
 end)
