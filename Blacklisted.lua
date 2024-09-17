@@ -9,6 +9,15 @@ local BlacklistedClients = {
     "9d00b54f-e10c-4511-af77-4a907c876712",
     "effa47db-b0e9-4503-9a23-724ecd2ee2f4",
     "b88794c7-5e5d-4762-b399-46b2aa5f3ec5",
+    "D15AD7A7-684F-4D82-99AF-87C1B42B3DFB",
+    "7b8bf85a-cf26-4f78-99e6-8a47f909625c",
+    "7aa91935-762d-40d9-9cfa-6564e6fcb946",
+    "e18ac2c1-d463-47f3-9222-8f6374fc8545",
+    "e5387aa3-4dc2-4508-90e8-59c947f9ff71",
+    "5287886d-e2a3-42f0-944b-8f66b6a5f613",
+    "C4822E64-C1DC-4304-89AF-8717EE90A19B",
+    "76E3A41B-AC93-49FD-8F53-90E5C5604F02",
+    "0a5fe69c-5bd7-4ae6-914f-4927164c403a",
 }
 
 return BlacklistedClients
