@@ -17,6 +17,7 @@ local BlacklistedClients = {
     "5287886d-e2a3-42f0-944b-8f66b6a5f613",
     "76E3A41B-AC93-49FD-8F53-90E5C5604F02",
     "0a5fe69c-5bd7-4ae6-914f-4927164c403a",
+    "e86c0b9e-b3ca-4649-91d1-3dc9810a49f1", --// dragon told me to
 }
 
 return BlacklistedClients
